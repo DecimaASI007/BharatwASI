@@ -1,6 +1,6 @@
 ![Alt text](logo.png)
 
-# 🇮🇳 BharatwASI - India's First Artificial Super Intelligence (ASI) Chatbot
+# 🇮🇳 BharatwASI - India's First Artificial Super Intelligence (ASI) enabled Chatbot
 
 ## 🚀 Introduction
 
