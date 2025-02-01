@@ -34,21 +34,37 @@ Ensure AI democratization, making AI accessible to everyone in India.
 ## 📦 Repository Contents
 
 BharatwASI/
+
 │── data/                           # Training and fine-tuning data
+
 │── models/                         # Trained models and checkpoints
+
 │── src/                            # Source code
+
 │   │── api.py                      # REST API to interact with chatbot
+
 │   │── chatbot.py                  # Core chatbot logic
+
 │   │── train.py                     # Model training and fine-tuning script
+
 │   │── infer.py                     # Model inference script
+
 │   │── config.py                    # Configuration settings
+
 │   │── utils.py                     # Helper functions
+
 │── frontend/                        # UI for chatbot interaction
+
 │── requirements.txt                 # Dependencies
+
 │── README.md                        # Documentation
+
 │── Dockerfile                       # Containerization
+
 │── deploy.sh                        # Deployment script
+
 │── tests/                           # Unit and integration tests
+
 
 ## 🛠️ Setup & Installation
 
