@@ -25,11 +25,17 @@ Ensure AI democratization, making AI accessible to everyone in India.
 ## 📌 Features
 
 ✅ Artificial Super Intelligence (ASI) - Goes beyond traditional AI, enabling human-like reasoning and problem-solving.
+
 ✅ India-Centric Training - Trained on India’s history, culture, science, and technology.
+
 ✅ Multilingual Support - Supports Hindi, English, Tamil, Telugu, Bengali, Marathi, and more.
+
 ✅ Faster & Efficient - Optimized for low-latency, real-time responses.
+
 ✅ Open API - Ready for integration into applications, websites, and enterprises.
+
 ✅ Privacy & Security Focused - 100% secure, ensuring data integrity & confidentiality.
+
 
 ## 📦 Repository Contents
 
