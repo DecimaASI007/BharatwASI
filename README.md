@@ -2,9 +2,9 @@
 
 ## 🚀 Introduction
 
-BharatwASI is India's first Artificial Super Intelligence (ASI) chatbot, designed to revolutionize AI interactions with deep, context-aware, and culturally enriched responses. Developed by Decima Technologies, BharatwASI is a step towards making India self-reliant in AI, offering an alternative to global models like OpenAI’s ChatGPT and Quant’s DeepSeek.
+BharatwASI is India's first Artificial Super Intelligence (ASI) chatbot, designed to revolutionize AI interactions with deep, context-aware, and culturally enriched responses. Developed by Decima Technologies, BharatwASI is a step towards making India self-reliant in AI, offering an alternative to global models like OpenAI’s ChatGPT and Quant’s DeepSeek. This release contains both the chatbot and ASI model which needs to be compiled with the Dataset files provided.
 
-BharatwASI is more than just a chatbot; it is a national initiative to ensure that India leads in the ASI race by developing its own faster, larger, and deeper AI models. This is just the beginning of a global ASI era, through it though small steps, we dream to leap big.
+BharatwASI is more than just a chatbot; it is a national initiative to ensure that India leads in the ASI race by developing its own faster, larger, and deeper AI models. This is just the beginning of a global ASI era, through it though small steps, we dream to leap big. While this initiative aims to have its own ASI Models which have been provided as a PoC in this release, we do recommend use of Llama, DeepSeek, Mistral, Falcon etc. This repo will be updated with more progress. Contributions are welcome.
 
 ## 🎯 Mission Statement & Vision
 
