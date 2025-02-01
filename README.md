@@ -182,5 +182,5 @@ Join us in making BharatwASI a national ASI success story! 🚀
 
 ### 💬 Follow & Support: Decima Technologies
 ### 📌 Use Hashtags: #BharatwASI #ASI #AIforIndia #DecimaTech
-### 📢 Share: Let’s build India’s AI future together! 🇮🇳
+### 📢 Share: Let’s build India’s ASI future together! 🇮🇳
 
