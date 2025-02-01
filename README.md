@@ -42,7 +42,7 @@ ASI surpasses human intelligence in all aspects, including reasoning, creativity
 
 #### ✅ Self-Reliance: A homegrown ASI model reduces dependency on Western AI giants.
 
-#### ✅ Security & Sovereignty: AI developed in India ensures data privacy and aligns with national interests.
+#### ✅ Security & Sovereignty: ASI developed in India ensures data privacy and aligns with national interests.
 
 #### ✅ Cultural Representation: BharatwASI is designed to understand Indian languages, history, and culture better than global AI models.
 
