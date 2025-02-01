@@ -116,6 +116,63 @@ curl -X POST "http://127.0.0.1:8000/chat" -H "Content-Type: application/json" -d
 
 ## 🚀 Model Training & Fine-Tuning using Llama 2 7b
 
+1️⃣ Downloading Meta-LLaMA 2 (7B)
+
+Meta has released LLaMA 2 models via Hugging Face. Follow these steps to download and load the model:
+
+Step 1: Install Dependencies
+
+pip install transformers accelerate torch sentencepiece
+
+Step 2: Login to Hugging Face CLI (Required for LLaMA 2)
+
+huggingface-cli login
+
+You will need a Hugging Face account to access Meta-LLaMA models. Sign up at Hugging Face if you don’t have an account.
+
+Step 3: Load the Model in Python
+
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+MODEL_NAME = "meta-llama/Llama-2-7b-chat-hf"
+
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
+
+2️⃣ Why Choose Meta-LLaMA 2 (7B)?
+
+LLaMA 2 (7B) is an optimized and efficient model, making it ideal for BharatwASI’s first phase due to: 
+
+✅ High Performance – Strong reasoning and language understanding.
+
+✅ Open Source – Freely available, unlike OpenAI’s models.
+
+✅ Scalability – Can be trained/fine-tuned efficiently with LoRA.
+
+✅ Reduced Compute Cost – Runs on mid-range GPUs compared to larger models.
+
+However, we are not limited to LLaMA 2. We can explore other models like DeepSeek, Mistral, Falcon, or LLaMA 3 when available.
+
+3️⃣ Alternative Models We Can Use
+
+If you want something more powerful or optimized for BharatwASI, here are some alternatives:
+
+Model	Parameters	Advantages
+
+DeepSeek 7B	7B	Newer than LLaMA 2, strong performance
+
+Mistral 7B	7B	Optimized with grouped-query attention (faster)
+
+Falcon 7B	7B	Arabic-friendly, strong multilingual support
+
+LLaMA 3 (Upcoming)	TBD	Next-gen Meta AI model
+
+Mistral Mixtral 8x7B	12B active	Sparse MoE, highly efficient
+
+LLaMA 2 (13B or 65B)	13B+	More power, but needs high GPU
+
+### Steps
+
 Train the Model
 
 python src/train.py
