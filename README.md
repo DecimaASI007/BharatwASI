@@ -129,9 +129,13 @@ docker run -d -p 8000:8000 --name bharatwasi_container bharatwasi
 ## 🌏 Why BharatwASI Matters for India
 
 🔹 National AI Leadership - India’s first ASI-powered chatbot.
+
 🔹 Self-Reliant AI Ecosystem - No dependency on global AI providers.
+
 🔹 Cultural & Linguistic Representation - AI that understands India better than any other chatbot.
+
 🔹 Open-Source & Collaborative - A community-driven initiative to enhance AI capabilities for all.
+
 
 ## 🤝 Contribution Guidelines
 
