@@ -137,6 +137,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 MODEL_NAME = "meta-llama/Llama-2-7b-chat-hf"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+
 model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
 
 2️⃣ Why Choose Meta-LLaMA 2 (7B)?
