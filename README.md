@@ -211,6 +211,7 @@ from transformers import AutoModelForCausalLM, AutoTokenizer
 MODEL_NAME = "deepseek-ai/DeepSeek-R1"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+
 model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
 
 3️⃣ Train the Model
