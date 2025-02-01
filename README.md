@@ -135,7 +135,9 @@ DeepSeek-R1 is one of the most advanced open-weight AI models, making it ideal f
 DeepSeek-R1 Models:
 
 Model 	#Total Params 	#Activated Params 	Context Length 	Download
+
 DeepSeek-R1-Zero 	671B 	37B 	128K 	🤗 HuggingFace - https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero
+
 DeepSeek-R1 	671B 	37B 	128K 	🤗 HuggingFace - https://huggingface.co/deepseek-ai/DeepSeek-R1
 
 1️⃣ Install Dependencies
