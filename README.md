@@ -1,4 +1,4 @@
-# 🇮🇳 BharatwASI - India's First Artificial Super Intelligence (ASI) Chatbot [Beta]
+# 🇮🇳 BharatwASI - India's First Artificial Super Intelligence (ASI) Chatbot
 
 ## 🚀 Introduction
 
@@ -181,6 +181,6 @@ A special thanks to Decima Technologies and Dr. Yuvraj Kumar for pioneering Indi
 Join us in making BharatwASI a national ASI success story! 🚀
 
 ### 💬 Follow & Support: Decima Technologies
-### 📌 Use Hashtags: #BharatwASI #ASI #AIforIndia #DecimaTech
+### 📌 Use Hashtags: #BharatwASI #ASI #AIforIndia #DecimaASI #IndiaAI #Bharat #India
 ### 📢 Share: Let’s build India’s ASI future together! 🇮🇳
 
