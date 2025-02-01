@@ -24,15 +24,15 @@ Ensure AI democratization, making AI accessible to everyone in India.
 
 ## 🌟 AI vs AGI vs ASI - Why India Must Focus on ASI
 
-### 1️⃣ Artificial Intelligence (AI) 
+1️⃣ Artificial Intelligence (AI) 
 
 AI refers to narrow intelligence that can perform specific tasks, such as chatbots, voice assistants, and recommendation systems. It lacks the ability to reason beyond pre-programmed logic.
 
-### 2️⃣ Artificial General Intelligence (AGI) 
+2️⃣ Artificial General Intelligence (AGI) 
 
 AGI represents human-like intelligence, capable of understanding, learning, and reasoning across various domains without needing constant human intervention. AGI is yet to be achieved.
 
-### 3️⃣ Artificial Super Intelligence (ASI) 
+3️⃣ Artificial Super Intelligence (ASI) 
 
 ASI surpasses human intelligence in all aspects, including reasoning, creativity, and decision-making. It has the potential to solve complex problems beyond human capabilities.
 
