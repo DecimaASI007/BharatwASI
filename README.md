@@ -157,7 +157,7 @@ However, we are not limited to LLaMA 2. We can explore other models like DeepSee
 
 If you want something more powerful or optimized for BharatwASI, here are some alternatives:
 
-Model	Parameters	Advantages
+#### Model	Parameters	Advantages
 
 DeepSeek 7B	7B	Newer than LLaMA 2, strong performance
 
