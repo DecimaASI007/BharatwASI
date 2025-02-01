@@ -140,9 +140,13 @@ docker run -d -p 8000:8000 --name bharatwasi_container bharatwasi
 ## 🤝 Contribution Guidelines
 
 We welcome contributions! If you’d like to contribute:
+
 1️⃣ Fork the repo & create a feature branch.
+
 2️⃣ Make changes & commit with meaningful messages.
+
 3️⃣ Submit a pull request for review.
+
 
 ## 🏆 Acknowledgements
 
