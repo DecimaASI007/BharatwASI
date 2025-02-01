@@ -60,7 +60,6 @@ ASI surpasses human intelligence in all aspects, including reasoning, creativity
 
 ✅ Privacy & Security Focused - 100% secure, ensuring data integrity & confidentiality.
 
-
 ## 📦 Repository Contents
 
 BharatwASI/
@@ -115,13 +114,48 @@ uvicorn src.api:app --host 0.0.0.0 --port 8000
 
 curl -X POST "http://127.0.0.1:8000/chat" -H "Content-Type: application/json" -d '{"message": "Hello!"}'
 
-## 🚀 Model Training & Fine-Tuning
+## 🚀 Model Training & Fine-Tuning using Llama 2 7b
 
 Train the Model
 
 python src/train.py
 
 Inference (Testing the Model)
+
+python src/infer.py
+
+## 🛠️ Model Training & Fine-Tuning (Using DeepSeek-R1)
+
+### Downloading and Using DeepSeek-R1 (671B Parameters)
+
+DeepSeek-R1 is one of the most advanced open-weight AI models, making it ideal for training BharatwASI as compared to OpenAI models. You may download the models by visiting https://github.com/deepseek-ai/DeepSeek-R1.
+
+#### Huggingface Links: 
+
+DeepSeek-R1 Models:
+
+Model 	#Total Params 	#Activated Params 	Context Length 	Download
+DeepSeek-R1-Zero 	671B 	37B 	128K 	🤗 HuggingFace - https://huggingface.co/deepseek-ai/DeepSeek-R1-Zero
+DeepSeek-R1 	671B 	37B 	128K 	🤗 HuggingFace - https://huggingface.co/deepseek-ai/DeepSeek-R1
+
+1️⃣ Install Dependencies
+
+pip install transformers accelerate torch sentencepiece
+
+2️⃣ Load DeepSeek-R1 in Python
+
+from transformers import AutoModelForCausalLM, AutoTokenizer
+
+MODEL_NAME = "deepseek-ai/DeepSeek-R1"
+
+tokenizer = AutoTokenizer.from_pretrained(MODEL_NAME)
+model = AutoModelForCausalLM.from_pretrained(MODEL_NAME)
+
+3️⃣ Train the Model
+
+python src/train.py
+
+4️⃣ Inference (Testing the Model)
 
 python src/infer.py
 
