@@ -176,11 +176,11 @@ LLaMA 2 (13B or 65B)	13B+	More power, but needs high GPU
 
 ### Steps
 
-Train the Model
+#### Train the Model
 
 python src/train.py
 
-Inference (Testing the Model)
+#### Inference (Testing the Model)
 
 python src/infer.py
 
