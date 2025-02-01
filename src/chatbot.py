@@ -15,5 +15,5 @@ class BharatwASI:
 # Example usage
 if __name__ == "__main__":
     bot = BharatwASI()
-    response = bot.chat("Namaste, how are you?")
+    response = bot.chat("Namaste, Aap Kaise Hain?")
     print(response)
