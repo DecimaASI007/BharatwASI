@@ -10,7 +10,7 @@ BharatwASI is more than just a chatbot; it is a national initiative to ensure th
 
 ### Mission
 
-India is determined to be self-dependent in the AI revolution by developing homegrown AI models. While the world is racing to build cutting-edge AI, Decima Technologies is committed to positioning India as a global leader in the ASI segment.
+India is determined to be self-dependent in the AI revolution by developing homegrown ASI models. While the world is racing to build cutting-edge AI, Decima Technologies is committed to positioning India as a global leader in the ASI segment.
 
 ### Vision
 
@@ -21,6 +21,30 @@ Create faster, larger, and deeper models than existing AI solutions.
 Offer a secure, privacy-centric AI alternative for national and global users.
 
 Ensure AI democratization, making AI accessible to everyone in India.
+
+## 🌟 AI vs AGI vs ASI - Why India Must Focus on ASI
+
+### 1️⃣ Artificial Intelligence (AI) 
+
+AI refers to narrow intelligence that can perform specific tasks, such as chatbots, voice assistants, and recommendation systems. It lacks the ability to reason beyond pre-programmed logic.
+
+### 2️⃣ Artificial General Intelligence (AGI) 
+
+AGI represents human-like intelligence, capable of understanding, learning, and reasoning across various domains without needing constant human intervention. AGI is yet to be achieved.
+
+### 3️⃣ Artificial Super Intelligence (ASI) 
+
+ASI surpasses human intelligence in all aspects, including reasoning, creativity, and decision-making. It has the potential to solve complex problems beyond human capabilities.
+
+### Why India Should Focus on ASI?
+
+#### ✅ Strategic Advantage: Leading in ASI ensures India’s technological and economic dominance.
+
+#### ✅ Self-Reliance: A homegrown ASI model reduces dependency on Western AI giants.
+
+#### ✅ Security & Sovereignty: AI developed in India ensures data privacy and aligns with national interests.
+
+#### ✅ Cultural Representation: BharatwASI is designed to understand Indian languages, history, and culture better than global AI models.
 
 ## 📌 Features
 
