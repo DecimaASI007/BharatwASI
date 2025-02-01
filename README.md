@@ -1,4 +1,4 @@
-# 🇮🇳 BharatwASI - India's First Artificial Super Intelligence (ASI) Chatbot
+# 🇮🇳 BharatwASI - India's First Artificial Super Intelligence (ASI) Chatbot [Beta]
 
 ## 🚀 Introduction
 
@@ -132,9 +132,9 @@ docker run -d -p 8000:8000 --name bharatwasi_container bharatwasi
 
 🔹 Self-Reliant AI Ecosystem - No dependency on global AI providers.
 
-🔹 Cultural & Linguistic Representation - AI that understands India better than any other chatbot.
+🔹 Cultural & Linguistic Representation - ASI that understands India better than any other chatbot.
 
-🔹 Open-Source & Collaborative - A community-driven initiative to enhance AI capabilities for all.
+🔹 Open-Source & Collaborative - A community-driven initiative to enhance ASI capabilities for all.
 
 
 ## 🤝 Contribution Guidelines
@@ -150,11 +150,11 @@ We welcome contributions! If you’d like to contribute:
 
 ## 🏆 Acknowledgements
 
-A special thanks to Decima Technologies and Dr. Yuvraj Kumar for pioneering India’s journey into Artificial Super Intelligence. This project is dedicated to the advancement of AI in India and its mission to become a global AI leader.
+A special thanks to Decima Technologies and Dr. Yuvraj Kumar for pioneering India’s journey into Artificial Super Intelligence. This project is dedicated to the advancement of AI, AGI, and ASI in India and its mission to become a global ASI leader.
 
 ## 📢 Spread the Word!
 
-Join us in making BharatwASI a national AI success story! 🚀
+Join us in making BharatwASI a national ASI success story! 🚀
 
 ### 💬 Follow & Support: Decima Technologies
 ### 📌 Use Hashtags: #BharatwASI #ASI #AIforIndia #DecimaTech
