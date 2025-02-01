@@ -1,0 +1,21 @@
+# Machine Learning & NLP
+torch
+transformers
+datasets
+sentencepiece
+
+# API & Backend
+fastapi
+uvicorn
+
+# Data Processing
+pandas
+numpy
+
+# Utility
+tqdm
+scipy
+protobuf
+
+# Testing
+pytest
