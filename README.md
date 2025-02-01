@@ -70,7 +70,7 @@ BharatwASI/
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/DecimaTech/BharatwASI.git
+git clone https://github.com/DecimaASI007/BharatwASI.git
 cd BharatwASI
 
 ### 2️⃣ Install Dependencies
